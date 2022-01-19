@@ -1,0 +1,21 @@
+h1{
+    color: seagreen;
+    margin-left: 100px;
+    border-style: double;
+}
+    p{
+        background-color: rgb(133, 66, 209);
+        color: rgb(252, 253, 253);
+        margin: 50px;
+    }
+body{
+    background-color: grey;
+}
+
+class{
+
+    color: grey;
+}
+
+
+
